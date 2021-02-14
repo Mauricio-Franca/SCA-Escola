@@ -51,7 +51,7 @@ if( isset($_SESSION['user']) ){
                   }          
                 ?>
                 <div class="pass">
-                  <a href="#">Recuperar minha senha</a>
+                  <a href="#">Esqueci minha senha</a>
                 </div>
 
                 <div class="field">
