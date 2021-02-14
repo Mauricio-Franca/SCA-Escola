@@ -1,2 +1,2 @@
-# SCA---Escola
+# SCA-Escola
  
